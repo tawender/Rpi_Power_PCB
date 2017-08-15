@@ -35,10 +35,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "CSS Thermostat Using Raspberry Pi"
-Date "2017-07-07"
+Title "Raspberry Pi Power Control Board"
+Date "2017-08-01"
 Rev "1"
-Comp "Custom Silicon Solutions"
+Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""

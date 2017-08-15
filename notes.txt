@@ -1,0 +1,10 @@
+Add another switch circuit for 5V supply to send to amp for power line relay control
+
+Add another spare output switch circuit if room
+
+Add connector for motor outputs (phoenix style? cat 5?)
+
+Add connector for motor power (12V power brick barrel jack?)
+
+Add more switch circuits for feather to switch motor power
+
